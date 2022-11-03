@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1346
-    y: 303
+    x: 815
+    y: 51
     width: 1206
     height: 715
   m_ShowMode: 4
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 19
+  controlID: 28
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 25
+  controlID: 29
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 26
+  controlID: 30
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -296,8 +296,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1346
-    y: 727
+    x: 0
+    y: 413
     width: 920
     height: 250
   m_ViewDataDictionary: {fileID: 0}
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\dasha2\dlya_vovy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e830000
-    m_LastClickedID: 33582
-    m_ExpandedIDs: 000000002c83000000ca9a3b
+    m_SelectedIDs: 0e5b0000
+    m_LastClickedID: 23310
+    m_ExpandedIDs: 000000000e5b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000000e5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -436,8 +436,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2267
-    y: 333
+    x: 922
+    y: 19
     width: 284
     height: 644
   m_ViewDataDictionary: {fileID: 0}
@@ -477,8 +477,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1346
-    y: 333
+    x: 815
+    y: 81
     width: 227
     height: 373
   m_ViewDataDictionary: {fileID: 0}
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 34830000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a2ceffffe0cfffff
+      m_ExpandedIDs: 34fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -534,8 +534,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1574
-    y: 333
+    x: 1043
+    y: 81
     width: 691
     height: 373
   m_ViewDataDictionary: {fileID: 0}
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.71521, y: -10.1582985, z: -5.6048126}
+    m_Target: {x: 18.282955, y: -13.532831, z: -8.808662}
     speed: 2
-    m_Value: {x: 12.71521, y: -10.1582985, z: -5.6048126}
+    m_Value: {x: 18.282955, y: -13.532831, z: -8.808662}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -790,11 +790,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: 0.2716274, y: 0.63900244, z: -0.25842428, w: 0.6716482}
   m_Size:
-    m_Target: 60.82191
+    m_Target: 33.864445
     speed: 2
-    m_Value: 60.82191
+    m_Value: 33.864445
   m_Ortho:
     m_Target: 0
     speed: 2
